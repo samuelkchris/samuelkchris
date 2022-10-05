@@ -39,6 +39,7 @@ src="https://img.shields.io/github/followers/samuelkchris?logo=github&style=for-
 
 <a href="http://www.github.com/samuelkchris"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelkchris&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 [](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkchris&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkchris&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samuelkchris&theme=radical&no-frame=false&no-bg=true&margin-w=4)
